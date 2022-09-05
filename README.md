@@ -42,4 +42,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dinanathdash&" alt="dinanathdash" /></p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/DinanathDash/blob/output/github-contribution-grid-snake.svg)
+<p><img align="left" src="https://github.com/thepiyushmalhotra/DinanathDash/blob/output/github-contribution-grid-snake.svg" /></p>
