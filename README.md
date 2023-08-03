@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Visual Studio Code**
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **projects**
 
