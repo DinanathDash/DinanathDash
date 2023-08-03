@@ -6,7 +6,7 @@
 <p>
 <img align="right" src="https://user-images.githubusercontent.com/108653031/188369724-c5784acd-b5d0-40cf-91f0-7c67fca9eb50.png"width=500>
 </p>
-<p align="left"> <a href="https://twitter.com/dinanathdash" target="blank"><img src="https://img.shields.io/twitter/follow/dinanathdash?logo=twitter&style=for-the-badge" alt="dinanathdash" /></a> </p>
+<p align="left"> <a href="https://instagram.com/dinanath_dash" target="blank"><img src="https://img.shields.io/twitter/follow/dinanathdash?logo=twitter&style=for-the-badge" alt="dinanathdash" /></a> </p>
 
 - 🔭 I’m currently working on **Visual Studio Code**
 
