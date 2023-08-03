@@ -21,15 +21,13 @@
 
 - ⚡ Fun fact **I have broken humor**
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dinanathdash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinanathdash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dinanath-dash-6636091a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinanath-dash-6636091a3" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dinanath-dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dinanath-dash" height="30" width="40" /></a>
-<a href="https://instagram.com/dinanath_dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinanath_dash" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dinanathdash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dinanathdash" height="30" width="40" /></a>
+<a href="https://twitter.com/dinanathdash" target="blank"><img align="center" src="https://o.remove.bg/downloads/b24406d0-fa9c-4d83-86d1-8638f8325ba3/download-removebg-preview.png" alt="dinanathdash" height="40" width="40" /></a>
+<a href="https://instagram.com/dinanath_dash" target="blank"><img align="center" src="https://o.remove.bg/downloads/151faf59-9b5b-48ba-b585-d44e64f72d8a/download-removebg-preview.png" alt="dinanath_dash" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/dinanath-dash-6636091a3" target="blank"><img align="center" src="" alt="dinanath-dash-6636091a3" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/dinanath-dash" target="blank"><img align="center" src="https://o.remove.bg/downloads/31d5b024-99a1-48fc-8d90-811447c89ef3/download-removebg-preview.png" alt="dinanath-dash" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dinanathdash" target="blank"><img align="center" src="https://o.remove.bg/downloads/7e0d7262-1b01-40e6-9b6a-bbda8781fe3a/download-removebg-preview.png" alt="dinanathdash" height="30" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
