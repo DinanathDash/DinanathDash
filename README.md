@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dinanath Dash</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinanathdash&label=Profile%20views&color=0e75b6&style=round" alt="dinanathdash" /> </p>
 
 <p>
 <img align="right" src="https://user-images.githubusercontent.com/108653031/188369724-c5784acd-b5d0-40cf-91f0-7c67fca9eb50.png"width=500>
 </p>
-<p align="left"> <a href="https://instagram.com/dinanath_dash" target="blank"><img src="https://img.shields.io/twitter/follow/dinanathdash?logo=twitter&style=for-the-badge" alt="dinanathdash" /></a> </p>
+<!-- <p align="left"> <a href="https://instagram.com/dinanath_dash" target="blank"><img src="https://img.shields.io/instagram/follow/dinanathdash?logo=instagram&style=for-the-badge" alt="Dinanath Dash" /></a> </p> -->
 
 - 🔭 I’m currently working on **Visual Studio Code**
 
