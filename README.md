@@ -33,7 +33,7 @@
 <p align="left"> </p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png" alt="python" width="45" height="45"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-64.png" alt="mysql" width="60" height="60"/> </a>
-<a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://file.removal.ai/preview/25f66cc0-18bf-4cfc-be1a-5a6c97f01463-download.png" alt="c" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg/120px-The_C_Programming_Language_logo.svg.png" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-64.png" alt="cplusplus" width="50" height="50"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-64.png" alt="java" width="50" height="50"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" alt="html5" width="50" height="50"/> </a> 
