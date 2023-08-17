@@ -22,11 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dinanathdash" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/180px-X_logo_2023.svg.png" alt="twitter" height="40" width="40" /></a>
-<a href="https://instagram.com/dinanath_dash" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" alt="instagram" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/dinanath-dash-6636091a3" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-64.png" alt="linkedin" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/dinanath-dash" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-64.png" alt="stackoverflow" height="36" width="36" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dinanathdash" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="geeksforgeeks" height="30" width="70" /></a>
+<a href="https://twitter.com/dinanathdash" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/180px-X_logo_2023.svg.png" alt="twitter" height="40" width="40" /></a>
+<a href="https://instagram.com/dinanath_dash" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" alt="instagram" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/dinanath-dash-6636091a3" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-64.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/dinanath-dash" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-64.png" alt="stackoverflow" height="36" width="36" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dinanathdash" target="_blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="geeksforgeeks" height="30" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,10 +38,11 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-64.png" alt="java" width="50" height="50"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" alt="html5" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png" alt="css3" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="javascript" width="52" height="52"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" alt="javascript" width="54" height="52"/> </a> 
+<a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="javascript" width="110" height="52"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="53" height="53"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="51" height="51"/> </a>
 <a href="https://www.lightroom.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc1/en/genuine/images/AFC/LR_icon.svg" alt="lightroom" width="51" height="51"/> </a>
 
 <h2> </h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinanathdash&show_icons=true&locale=en&layout=compact" alt="dinanathdash" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanathdash" alt="dinanathdash" /></p>
