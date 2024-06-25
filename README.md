@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/dinanathdash" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/180px-X_logo_2023.svg.png" alt="twitter" height="35" width="40" /></a>
 <a href="https://instagram.com/dinanath_dash" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-64.png" alt="instagram" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/dinanath-dash-6636091a3" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-64.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/dinanathdash" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-64.png" alt="linkedin" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
