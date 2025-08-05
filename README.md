@@ -2,7 +2,7 @@
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 
 <p>
-<img align="right" src="https://user-images.githubusercontent.com/108653031/188369724-c5784acd-b5d0-40cf-91f0-7c67fca9eb50.png"width=500>
+<img width="500" align="right" alt="desk" src="https://github.com/user-attachments/assets/57e1855f-028c-4384-a168-39d8d42bb7c5" />
 </p>
 
 - 🔭 I’m currently working on **Figma**
