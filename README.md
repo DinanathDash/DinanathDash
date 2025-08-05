@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dinanath Dash</h1>
+<h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="34" height="34">, I'm Dinanath Dash</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
-
 
 <p>
 <img align="right" src="https://user-images.githubusercontent.com/108653031/188369724-c5784acd-b5d0-40cf-91f0-7c67fca9eb50.png"width=500>
@@ -37,7 +36,9 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" alt="html5" width="50" height="50"/> </a>&nbsp
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png" alt="css3" width="50" height="50"/> </a>&nbsp
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="50" height="50"/> </a>&nbsp
-<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="nodejs" width="50" height="50"/> </a>&nbsp
+<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="react" width="50" height="50"/> </a>&nbsp
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idMNEQh7-0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="tailwindcss" width="50" height="50"/> </a>&nbsp
+<a href="https://mui.com" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idSP1Uk_AU/w/180/h/180/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="materialui" width="50" height="50"/> </a>&nbsp
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idm4AsFvrC/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="bootstrap" width="58" height="50"/> </a>&nbsp
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="51" height="51"/> </a>&nbsp
 <a href="https://www.lightroom.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc1/en/genuine/images/AFC/LR_icon.svg" alt="lightroom" width="51" height="51"/> </a>&nbsp
