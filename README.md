@@ -37,6 +37,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-64.png" alt="css3" width="50" height="50"/> </a>&nbsp
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="50" height="50"/> </a>&nbsp
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="react" width="50" height="50"/> </a>&nbsp
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="react" width="50" height="50"/> </a>&nbsp
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idMNEQh7-0/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="tailwindcss" width="50" height="50"/> </a>&nbsp
 <a href="https://mui.com" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idSP1Uk_AU/w/180/h/180/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="materialui" width="50" height="50"/> </a>&nbsp
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idm4AsFvrC/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="bootstrap" width="58" height="50"/> </a>&nbsp
