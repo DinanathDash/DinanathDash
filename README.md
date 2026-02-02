@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 👨‍💻 All of my projects are available at [https://dverse.framer.website/](https://dverse.framer.website/)
+- 👨‍💻 All of my projects are available at [https://dinanath.dev/](https://dinanath.dev/)
 
 - 💬 Ask me about **Figma, Lightroom and Photoshop**
 
@@ -39,4 +39,4 @@
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idCeIE9B96/theme/light/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="framer" width="30" height="50"/> </a>&nbsp
 
 <h2> </h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanathdash" alt="dinanathdash" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanathdash" alt="dinanathdash" /></p> -->
