@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="34" height="34">, I'm Dinanath Dash</h1>
-<h3 align="center">A passionate UI/UX Designer from India</h3>
+<h3 align="center">A passionate Design Engineer from India</h3>
 
 <p>
 <img width="500" align="right" alt="desk" src="https://github.com/user-attachments/assets/57e1855f-028c-4384-a168-39d8d42bb7c5" />
