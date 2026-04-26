@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **open-source security tools and scalable web architectures**
 
-- 👨‍💻 All of my projects are available at [https://dinanath.dev/](https://dinanath.dev/)
+- 👨‍💻 All of my projects are available at [dinanath.dev](https://dinanath.dev/)
 
 - 💬 Ask me about **Next.js, Apple MLX, and Application Security**
 
