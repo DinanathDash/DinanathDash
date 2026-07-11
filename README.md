@@ -41,5 +41,5 @@
   <a href="https://www.framer.com/" target="_blank"><img src="./assets/framer.svg" alt="framer" width="50" height="50"/></a>
 </div>
 
-<h2> </h2>
+<!-- <h2> </h2> -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinanathdash" alt="dinanathdash" /></p> -->
